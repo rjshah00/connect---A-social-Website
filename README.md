@@ -3,8 +3,8 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
 ## Project Link
-Project link - https://github.com/Smit1400/Connect-A-Social-Website-/
-Where we have used above() login and signup to our website 
+Project link - https://github.com/Smit1400/Connect-A-Social-Website-/ </br>
+Where we have used above(https://github.com/rjshah00/connect---A-social-Website) login and signup to our website 
 
 ## Development server
 
